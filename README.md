@@ -1,5 +1,5 @@
 # Word2Vec
-Word2Vec model implementation 
+Word2Vec model implementation as given in the paper : https://arxiv.org/pdf/1301.3781.pdf
 
 Here are the resources I used to build this notebook. I suggest reading these either beforehand or while you're working on this material.
 A really good conceptual overview of Word2Vec from Chris McCormick
